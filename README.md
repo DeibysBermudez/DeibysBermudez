@@ -2,7 +2,7 @@
 
 🇨🇴 Soy de **Cúcuta - Norte de Santanter, Colombia** tengo **18 años**.  
 🧑‍💻 Actualmente estudio **programación** en **Campusland** y me apasiona aprender cada día más sobre el desarrollo de software.  
-💻 Tengo experiencia trabajando con **Python** y **JavaScript** (básico), y anejo **sistemas operativos Windows y Linux**.
+💻 Tengo experiencia trabajando con **Python** y **JavaScript** (básico), y manejo **sistemas operativos Windows y Linux**.
 
 ---
 ### 🌟 Mi lema
