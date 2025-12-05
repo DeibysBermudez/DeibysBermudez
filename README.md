@@ -43,33 +43,10 @@ Si quieres, puedo añadir descripciones más completas o capturas para alguno de
 
 ---
 
-## Estadísticas
-
-<table>
-	<tr>
-		<td valign="top">
-			<a href="https://github.com/DeibysBermudez">
-				<img alt="Deibys GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DeibysBermudez&show_icons=true&theme=radical" />
-			</a>
-		</td>
-		<td valign="top">
-			<a href="https://github.com/DeibysBermudez">
-				<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeibysBermudez&layout=compact&theme=radical" />
-			</a>
-			<br/>
-			<a href="https://github.com/DeibysBermudez">
-				<img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com?user=DeibysBermudez&theme=radical" />
-			</a>
-		</td>
-	</tr>
-</table>
-
----
-
 ## Contacto
 
 - GitHub: `https://github.com/DeibysBermudez`
-- ¿Agregar correo o LinkedIn? Puedo incluirlos si me los proporcionas.
+- Linkedin: `https://www.linkedin.com/in/deibys-sebastian-berm%C3%BAdez-orduz-b9623b375/`
 
 ---
 
