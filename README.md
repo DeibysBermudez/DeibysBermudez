@@ -46,7 +46,7 @@ Si quieres, puedo añadir descripciones más completas o capturas para alguno de
 ## Contacto
 
 - GitHub: `https://github.com/DeibysBermudez`
-- Linkedin: `https://www.linkedin.com/in/deibys-sebastian-berm%C3%BAdez-orduz-b9623b375/`
+- Linkedin: `https://www.linkedin.com/in/deibys-sebastian-berm%C3%BAdez-orduz-b9623b375/    `
 
 ---
 
